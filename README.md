@@ -10,7 +10,7 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 
 ## PROGRAM
-```
+```.py
 echo server.py
 import socket
 
